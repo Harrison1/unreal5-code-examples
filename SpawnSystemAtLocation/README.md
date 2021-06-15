@@ -23,10 +23,10 @@
 
 ## Helpful Links
  
-1. [Official UNiagaraSystem Docs](https://docs.unrealengine.com/4.26/en-US/API/Plugins/Niagara/UNiagaraSystem/)
-2. [Official UNiagaraFunctionLibrary Docs](https://docs.unrealengine.com/4.26/en-US/API/Plugins/Niagara/UNiagaraFunctionLibrary/)
-3. [Official UNiagaraComponentPool Docs](https://docs.unrealengine.com/4.26/en-US/API/Plugins/Niagara/UNiagaraComponentPool/)
-3. [UE Forum Thread about spawning Niagaras](https://forums.unrealengine.com/t/trying-to-spawn-niagara-system-in-c-crashing/152182)
-4. [UE Forum Thread regarding Niagara and Build.cs](https://forums.unrealengine.com/t/4-22-niagara-and-c/126475/8)
-5. [Reddit Thread About Spawning Niagaras](https://www.reddit.com/r/unrealengine/comments/hfn7t9/are_there_any_c_usage_examples_of_the_niagara/)
+* [Official UNiagaraSystem Docs](https://docs.unrealengine.com/4.26/en-US/API/Plugins/Niagara/UNiagaraSystem/)
+* [Official UNiagaraFunctionLibrary Docs](https://docs.unrealengine.com/4.26/en-US/API/Plugins/Niagara/UNiagaraFunctionLibrary/)
+* [Official UNiagaraComponentPool Docs](https://docs.unrealengine.com/4.26/en-US/API/Plugins/Niagara/UNiagaraComponentPool/)
+* [UE Forum Thread about spawning Niagaras](https://forums.unrealengine.com/t/trying-to-spawn-niagara-system-in-c-crashing/152182)
+* [UE Forum Thread regarding Niagara and Build.cs](https://forums.unrealengine.com/t/4-22-niagara-and-c/126475/8)
+* [Reddit Thread About Spawning Niagaras](https://www.reddit.com/r/unrealengine/comments/hfn7t9/are_there_any_c_usage_examples_of_the_niagara/)
 
