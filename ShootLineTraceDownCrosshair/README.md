@@ -2,11 +2,11 @@
 
 * Unreal Version: **5.0.0**
 * Template: **First Person**
-* Project Name: **FPUE5**
+* Project Name: **MyProject**
+
+**Big credit to the [Shooter Game Project](https://www.unrealengine.com/marketplace/en-US/item/fea72c38b29841e592f9ed2007a9d756). It's a wonderful learning resource. I just tried to split out the weapon instant fire trace code from the project and simplify it so I could better understand it.** 
 
 ![Screenshot](img/screenshot-line-trace.png)
-
-**All credit goes to the Shoot Game Tutorial. I just tried to split it out and simplify it so I could understand it better.** 
 
 *this code is ignoring weapon spread*
 
