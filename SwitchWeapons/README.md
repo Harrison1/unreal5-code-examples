@@ -8,14 +8,13 @@
 
 This switching weapon example is a type of weapon structure where the character can only have one sidearm and one rifle at a time. When the player overlaps a weapon pickup the weapon will snap to the character and be added the players weapon map. This is not production ready code nor is it a perfect example of how a weapon system should work. 
 
-There's dozens of ways to pick up and switch items, and mileage will vary depending on a game's needs. I'm sure there are better ways of doing this, but this was the way I construtcted it and I learned a lot throughout the process. There's a variety of different Engine and code features in this example touches so I figured it might help.
+There's dozens of ways to pick up and switch items, and mileage will vary depending on a game's needs. I'm sure there are better ways of doing this, but this was the way I construtcted it and I learned a lot throughout the process. There's a variety of different engine and code features this example touches so I figured it might help.
 
-Add the marketplace items below to your project or add whatever assets you want. Each pack below should be free. When you click `Add To Project` in your Library's vault you'll probably need to click  `Show All Projects` then select your project then select the latest version the asset pack provides.
-
-The animations don't line up exactly with what I was trying to do, but that's alright because it gets the point across.
+The animations I used don't line up exactly with where the weapons are placed on the body, but that's alright, it gets the point across and we can always import other animations later
 
 1. Add [Animation Starter Pack](https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack) to project
 2. Add [Military Weapons Dark](https://www.unrealengine.com/marketplace/en-US/product/military-weapons-dark) to project
+* Each pack above should be free. When you click `Add To Project` in your Library's vault you'll probably need to click  `Show All Projects` then select your project then select the latest version the asset pack provides.
 3. Add Inputs ![Inputs](img/weapon-inputs.png)
 4. Retarget Skeleton mesh to be able to get the idle pistol, idle rifle, equip pistol, and equip rifle animations.
 5. Create montages of equip animations
